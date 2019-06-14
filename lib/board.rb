@@ -1,3 +1,3 @@
 # Define the variable board below.
-Array = board[9]
+board = Array[9]
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
